@@ -12,3 +12,16 @@
 
   http://www.imparareaprogrammare.it
 */
+
+console.log("totale " + ore);
+console.log(resto);
+
+var minuti = parseInt(resto/60);
+
+console.log(minuti);
+
+var secondi = resto%60;
+
+console.log(secondi);
+
+console.log("Il tempo è uguale a " + ore + " ore " + minuti + " minuti " + secondi + " secondi");
