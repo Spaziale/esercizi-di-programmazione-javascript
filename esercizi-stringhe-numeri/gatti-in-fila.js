@@ -18,3 +18,4 @@
   http://www.imparareaprogrammare.it
 */
 var cats = 44;
+var lines = 8;
